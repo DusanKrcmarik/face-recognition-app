@@ -5,4 +5,4 @@ React on the front end & Nodejs+express for the back end. Postgresql for the dat
 
 x
 
-![Imgur](https://i.imgur.com/tlvivOi.png)
+![Imgur](https://i.imgur.com/gLg85vc.png)
